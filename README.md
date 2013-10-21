@@ -1,6 +1,6 @@
 # Gumby2Rails
 
-TODO: Write a gem description
+A Rails Engine that includes the [GrumbyFramework 2.5](http://gumbyframework.com/)
 
 ## Installation
 
